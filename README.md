@@ -1,6 +1,6 @@
-# Curious.iT 
-(https://www-drv.com/site/324pdqe1075ahihu4vt4kg/solar/index.html)
+# Curious.iT (https://tinyurl.com/curious-it)
 Our website is all about A.I. and should be up and running soon...
+(https://www-drv.com/site/324pdqe1075ahihu4vt4kg/solar/index.html)
 It is designed to showcase some of the latest developments in Artificial Intelligence 
 as well as some cool AI implementations.
 
